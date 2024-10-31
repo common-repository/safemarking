@@ -1,0 +1,4 @@
+.safemarking ul { margin:0; padding:0; vertical-align:baseline; }
+.safemarking li { list-style-type:none; display:inline-block; margin-left:8px; vertical-align:middle; }
+.safemarking li:first-child { margin-left:0; }
+.safemarking li a { vertical-align:baseline; }

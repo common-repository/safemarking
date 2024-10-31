@@ -1,0 +1,3 @@
+#safemarking ul { margin:0; padding:0; }
+
+#safemarking ul li { display:inline-block; list-style-type:none; }
